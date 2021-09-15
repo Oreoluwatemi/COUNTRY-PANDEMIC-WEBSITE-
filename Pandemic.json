@@ -1,0 +1,3077 @@
+{
+  "Countries": [
+    {
+      "ID": "10e96b0f-67dc-4047-8a7a-434b45629f60",
+      "Country": "Afghanistan",
+      "CountryCode": "AF",
+      "Slug": "afghanistan",
+      "NewConfirmed": "361",
+      "TotalConfirmed": "148933",
+      "NewDeaths": "32",
+      "TotalDeaths": "6836",
+      "NewRecovered": "0",
+      "TotalRecovered": "82586",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "700dcfb5-050d-4c04-9c83-daf0957ca0bd",
+      "Country": "Albania",
+      "CountryCode": "AL",
+      "Slug": "albania",
+      "NewConfirmed": "99",
+      "TotalConfirmed": "133310",
+      "NewDeaths": "0",
+      "TotalDeaths": "2457",
+      "NewRecovered": "23",
+      "TotalRecovered": "130314",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "754ee82b-6d53-456d-b565-1225bfe8012f",
+      "Country": "Algeria",
+      "CountryCode": "DZ",
+      "Slug": "algeria",
+      "NewConfirmed": "1495",
+      "TotalConfirmed": "176724",
+      "NewDeaths": "34",
+      "TotalDeaths": "4404",
+      "NewRecovered": "852",
+      "TotalRecovered": "118409",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8d540ea8-39be-494f-b8d5-4dfc23e24b8f",
+      "Country": "Andorra",
+      "CountryCode": "AD",
+      "Slug": "andorra",
+      "NewConfirmed": "31",
+      "TotalConfirmed": "14797",
+      "NewDeaths": "0",
+      "TotalDeaths": "128",
+      "NewRecovered": "32",
+      "TotalRecovered": "14380",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d25c939f-ebff-4eba-b8e0-4e7bffb0f2f9",
+      "Country": "Angola",
+      "CountryCode": "AO",
+      "Slug": "angola",
+      "NewConfirmed": "88",
+      "TotalConfirmed": "43158",
+      "NewDeaths": "4",
+      "TotalDeaths": "1026",
+      "NewRecovered": "193",
+      "TotalRecovered": "39582",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "9f668fc6-2cec-42c7-be7c-b6975a0c8305",
+      "Country": "Antigua and Barbuda",
+      "CountryCode": "AG",
+      "Slug": "antigua-and-barbuda",
+      "NewConfirmed": "8",
+      "TotalConfirmed": "1311",
+      "NewDeaths": "0",
+      "TotalDeaths": "43",
+      "NewRecovered": "4",
+      "TotalRecovered": "1239",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "bf3d4a23-2dd0-4a4a-b507-d0a26f89686a",
+      "Country": "Argentina",
+      "CountryCode": "AR",
+      "Slug": "argentina",
+      "NewConfirmed": "13736",
+      "TotalConfirmed": "4975616",
+      "NewDeaths": "300",
+      "TotalDeaths": "106747",
+      "NewRecovered": "9808",
+      "TotalRecovered": "4615834",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1cfdf438-7ee0-429a-81c7-4db89afe9821",
+      "Country": "Armenia",
+      "CountryCode": "AM",
+      "Slug": "armenia",
+      "NewConfirmed": "280",
+      "TotalConfirmed": "230993",
+      "NewDeaths": "4",
+      "TotalDeaths": "4625",
+      "NewRecovered": "149",
+      "TotalRecovered": "220438",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b2f7c595-4c9c-4d2b-8d0a-00b810d82292",
+      "Country": "Australia",
+      "CountryCode": "AU",
+      "Slug": "australia",
+      "NewConfirmed": "253",
+      "TotalConfirmed": "35089",
+      "NewDeaths": "2",
+      "TotalDeaths": "927",
+      "NewRecovered": "31",
+      "TotalRecovered": "24172",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "dce1b6ec-632e-4f24-855e-2724b0e3e65a",
+      "Country": "Austria",
+      "CountryCode": "AT",
+      "Slug": "austria",
+      "NewConfirmed": "592",
+      "TotalConfirmed": "660854",
+      "NewDeaths": "2",
+      "TotalDeaths": "10744",
+      "NewRecovered": "350",
+      "TotalRecovered": "644388",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "14f27985-120e-4cda-84c5-8f259f57a4e1",
+      "Country": "Azerbaijan",
+      "CountryCode": "AZ",
+      "Slug": "azerbaijan",
+      "NewConfirmed": "996",
+      "TotalConfirmed": "346878",
+      "NewDeaths": "5",
+      "TotalDeaths": "5039",
+      "NewRecovered": "202",
+      "TotalRecovered": "333694",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0bf38f3c-9365-49ad-a94b-77d6eb90bad5",
+      "Country": "Bahamas",
+      "CountryCode": "BS",
+      "Slug": "bahamas",
+      "NewConfirmed": "35",
+      "TotalConfirmed": "15046",
+      "NewDeaths": "1",
+      "TotalDeaths": "292",
+      "NewRecovered": "9",
+      "TotalRecovered": "12628",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "5c18d526-8682-49ed-bcac-d4486649f38d",
+      "Country": "Bahrain",
+      "CountryCode": "BH",
+      "Slug": "bahrain",
+      "NewConfirmed": "122",
+      "TotalConfirmed": "269617",
+      "NewDeaths": "0",
+      "TotalDeaths": "1384",
+      "NewRecovered": "124",
+      "TotalRecovered": "267220",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "35f612a5-54ad-44aa-b51e-a719263e164e",
+      "Country": "Bangladesh",
+      "CountryCode": "BD",
+      "Slug": "bangladesh",
+      "NewConfirmed": "13817",
+      "TotalConfirmed": "1309910",
+      "NewDeaths": "241",
+      "TotalDeaths": "21638",
+      "NewRecovered": "16112",
+      "TotalRecovered": "1141157",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7fc0b50e-b930-4877-ad34-871cdf44f36a",
+      "Country": "Barbados",
+      "CountryCode": "BB",
+      "Slug": "barbados",
+      "NewConfirmed": "11",
+      "TotalConfirmed": "4433",
+      "NewDeaths": "0",
+      "TotalDeaths": "48",
+      "NewRecovered": "0",
+      "TotalRecovered": "4251",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4e8264c6-8767-4487-b277-9d041263e765",
+      "Country": "Belarus",
+      "CountryCode": "BY",
+      "Slug": "belarus",
+      "NewConfirmed": "967",
+      "TotalConfirmed": "449302",
+      "NewDeaths": "11",
+      "TotalDeaths": "3494",
+      "NewRecovered": "1037",
+      "TotalRecovered": "443417",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d9ef5f32-508a-4997-a902-c567902bfe44",
+      "Country": "Belgium",
+      "CountryCode": "BE",
+      "Slug": "belgium",
+      "NewConfirmed": "1740",
+      "TotalConfirmed": "1130758",
+      "NewDeaths": "4",
+      "TotalDeaths": "25251",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "97ab8ff7-8017-4e6d-8f69-84c85fd5852c",
+      "Country": "Belize",
+      "CountryCode": "BZ",
+      "Slug": "belize",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "14284",
+      "NewDeaths": "0",
+      "TotalDeaths": "338",
+      "NewRecovered": "0",
+      "TotalRecovered": "13514",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "bbc0a62c-b960-4f02-9d1a-4d2949f28bc4",
+      "Country": "Benin",
+      "CountryCode": "BJ",
+      "Slug": "benin",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "8394",
+      "NewDeaths": "0",
+      "TotalDeaths": "108",
+      "NewRecovered": "0",
+      "TotalRecovered": "8136",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "24618be8-a3d6-4909-84c1-ed3a2ca1e325",
+      "Country": "Bhutan",
+      "CountryCode": "BT",
+      "Slug": "bhutan",
+      "NewConfirmed": "8",
+      "TotalConfirmed": "2540",
+      "NewDeaths": "0",
+      "TotalDeaths": "2",
+      "NewRecovered": "18",
+      "TotalRecovered": "2418",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "faf42eec-6593-4f19-ba25-8437460c0a7a",
+      "Country": "Bolivia",
+      "CountryCode": "BO",
+      "Slug": "bolivia",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "475265",
+      "NewDeaths": "0",
+      "TotalDeaths": "17882",
+      "NewRecovered": "0",
+      "TotalRecovered": "410833",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "e3bb9700-d023-45ae-afb9-0935f02512dd",
+      "Country": "Bosnia and Herzegovina",
+      "CountryCode": "BA",
+      "Slug": "bosnia-and-herzegovina",
+      "NewConfirmed": "124",
+      "TotalConfirmed": "205949",
+      "NewDeaths": "0",
+      "TotalDeaths": "9689",
+      "NewRecovered": "13",
+      "TotalRecovered": "189710",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "525dbac7-6998-451e-b638-224e6723285d",
+      "Country": "Botswana",
+      "CountryCode": "BW",
+      "Slug": "botswana",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "115220",
+      "NewDeaths": "0",
+      "TotalDeaths": "1653",
+      "NewRecovered": "0",
+      "TotalRecovered": "96964",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "74048b1a-7fd8-4f62-b8d1-e4ee1c4fa9f1",
+      "Country": "Brazil",
+      "CountryCode": "BR",
+      "Slug": "brazil",
+      "NewConfirmed": "32316",
+      "TotalConfirmed": "19985817",
+      "NewDeaths": "1209",
+      "TotalDeaths": "558432",
+      "NewRecovered": "0",
+      "TotalRecovered": "17771228",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7bd39439-b8c0-496b-b686-2975d0421fc1",
+      "Country": "Brunei Darussalam",
+      "CountryCode": "BN",
+      "Slug": "brunei",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "338",
+      "NewDeaths": "0",
+      "TotalDeaths": "3",
+      "NewRecovered": "0",
+      "TotalRecovered": "280",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "51f7754a-0331-465c-8f3d-fece72180783",
+      "Country": "Bulgaria",
+      "CountryCode": "BG",
+      "Slug": "bulgaria",
+      "NewConfirmed": "429",
+      "TotalConfirmed": "426432",
+      "NewDeaths": "4",
+      "TotalDeaths": "18229",
+      "NewRecovered": "52",
+      "TotalRecovered": "398721",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "185b9a4b-7d15-49ee-b706-95556c9f6127",
+      "Country": "Burkina Faso",
+      "CountryCode": "BF",
+      "Slug": "burkina-faso",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "13591",
+      "NewDeaths": "0",
+      "TotalDeaths": "169",
+      "NewRecovered": "0",
+      "TotalRecovered": "13385",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "bea6cdc1-b527-4b17-a4f4-3adadf646eef",
+      "Country": "Burundi",
+      "CountryCode": "BI",
+      "Slug": "burundi",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "7518",
+      "NewDeaths": "0",
+      "TotalDeaths": "38",
+      "NewRecovered": "0",
+      "TotalRecovered": "773",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "eb4f10a5-ab1c-4750-9828-360fe007dd4c",
+      "Country": "Cambodia",
+      "CountryCode": "KH",
+      "Slug": "cambodia",
+      "NewConfirmed": "583",
+      "TotalConfirmed": "79634",
+      "NewDeaths": "17",
+      "TotalDeaths": "1488",
+      "NewRecovered": "658",
+      "TotalRecovered": "72803",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4c4cef12-7fc0-48e4-bb58-b5c7b72bc0fb",
+      "Country": "Cameroon",
+      "CountryCode": "CM",
+      "Slug": "cameroon",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "82064",
+      "NewDeaths": "0",
+      "TotalDeaths": "1334",
+      "NewRecovered": "0",
+      "TotalRecovered": "35261",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1f12cea4-db86-4fdb-8d42-fb7315ba5f2c",
+      "Country": "Canada",
+      "CountryCode": "CA",
+      "Slug": "canada",
+      "NewConfirmed": "1500",
+      "TotalConfirmed": "1206211",
+      "NewDeaths": "8",
+      "TotalDeaths": "24240",
+      "NewRecovered": "1202",
+      "TotalRecovered": "1405529",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "61a9bc92-ca5f-4ec8-98e8-7397ad9ae0ef",
+      "Country": "Cape Verde",
+      "CountryCode": "CV",
+      "Slug": "cape-verde",
+      "NewConfirmed": "48",
+      "TotalConfirmed": "33906",
+      "NewDeaths": "0",
+      "TotalDeaths": "298",
+      "NewRecovered": "45",
+      "TotalRecovered": "33173",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "335d21fb-b9ba-46f5-a331-0ae004d9d48d",
+      "Country": "Central African Republic",
+      "CountryCode": "CF",
+      "Slug": "central-african-republic",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "7151",
+      "NewDeaths": "0",
+      "TotalDeaths": "98",
+      "NewRecovered": "0",
+      "TotalRecovered": "6859",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "626a958a-0ab2-43ec-a2ca-400879866fe2",
+      "Country": "Chad",
+      "CountryCode": "TD",
+      "Slug": "chad",
+      "NewConfirmed": "1",
+      "TotalConfirmed": "4974",
+      "NewDeaths": "0",
+      "TotalDeaths": "174",
+      "NewRecovered": "2",
+      "TotalRecovered": "4796",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0cc725b6-4e30-481b-a8f7-4ea6e3ff256a",
+      "Country": "Chile",
+      "CountryCode": "CL",
+      "Slug": "chile",
+      "NewConfirmed": "605",
+      "TotalConfirmed": "1618457",
+      "NewDeaths": "24",
+      "TotalDeaths": "35640",
+      "NewRecovered": "1169",
+      "TotalRecovered": "1574176",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8bb3e1d8-e054-4b9c-99cd-8c450c9d6cb8",
+      "Country": "China",
+      "CountryCode": "CN",
+      "Slug": "china",
+      "NewConfirmed": "104",
+      "TotalConfirmed": "105346",
+      "NewDeaths": "0",
+      "TotalDeaths": "4848",
+      "NewRecovered": "15",
+      "TotalRecovered": "99187",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1cb752b4-9c92-4d8d-ad80-942a32a09c28",
+      "Country": "Colombia",
+      "CountryCode": "CO",
+      "Slug": "colombia",
+      "NewConfirmed": "6929",
+      "TotalConfirmed": "4807979",
+      "NewDeaths": "0",
+      "TotalDeaths": "121216",
+      "NewRecovered": "7963",
+      "TotalRecovered": "4606139",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "6c1b625c-3d56-452a-b2ae-c3e065b6a4c5",
+      "Country": "Comoros",
+      "CountryCode": "KM",
+      "Slug": "comoros",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "4028",
+      "NewDeaths": "0",
+      "TotalDeaths": "147",
+      "NewRecovered": "0",
+      "TotalRecovered": "3869",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "999abab8-3078-4e06-b67d-f7439ec88926",
+      "Country": "Congo (Brazzaville)",
+      "CountryCode": "CG",
+      "Slug": "congo-brazzaville",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "13216",
+      "NewDeaths": "0",
+      "TotalDeaths": "178",
+      "NewRecovered": "0",
+      "TotalRecovered": "12421",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "49ce0b2b-4cc8-44e4-88b4-6610890f35f5",
+      "Country": "Congo (Kinshasa)",
+      "CountryCode": "CD",
+      "Slug": "congo-kinshasa",
+      "NewConfirmed": "264",
+      "TotalConfirmed": "50793",
+      "NewDeaths": "0",
+      "TotalDeaths": "1045",
+      "NewRecovered": "0",
+      "TotalRecovered": "30043",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "11a2fb11-e3e9-48c7-bb38-e910003bcae5",
+      "Country": "Costa Rica",
+      "CountryCode": "CR",
+      "Slug": "costa-rica",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "411123",
+      "NewDeaths": "0",
+      "TotalDeaths": "5070",
+      "NewRecovered": "0",
+      "TotalRecovered": "334117",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ad9b94d3-8d54-42f1-b558-dc7015169233",
+      "Country": "Croatia",
+      "CountryCode": "HR",
+      "Slug": "croatia",
+      "NewConfirmed": "271",
+      "TotalConfirmed": "364244",
+      "NewDeaths": "0",
+      "TotalDeaths": "8267",
+      "NewRecovered": "135",
+      "TotalRecovered": "354830",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "51aecfc8-6293-4390-b52f-2432d100b71b",
+      "Country": "Cuba",
+      "CountryCode": "CU",
+      "Slug": "cuba",
+      "NewConfirmed": "9363",
+      "TotalConfirmed": "422614",
+      "NewDeaths": "98",
+      "TotalDeaths": "3091",
+      "NewRecovered": "9118",
+      "TotalRecovered": "373354",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "2c6d3e23-5b9f-4878-8090-56f31ed802e0",
+      "Country": "Cyprus",
+      "CountryCode": "CY",
+      "Slug": "cyprus",
+      "NewConfirmed": "575",
+      "TotalConfirmed": "103889",
+      "NewDeaths": "1",
+      "TotalDeaths": "430",
+      "NewRecovered": "0",
+      "TotalRecovered": "39061",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "a8aefc6f-c000-42a8-b72d-3e4e0d33b153",
+      "Country": "Czech Republic",
+      "CountryCode": "CZ",
+      "Slug": "czech-republic",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "1673926",
+      "NewDeaths": "0",
+      "TotalDeaths": "30378",
+      "NewRecovered": "0",
+      "TotalRecovered": "1641074",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d0fc6aa6-7711-4b38-8eac-28b4d5cc0ca5",
+      "Country": "Côte d'Ivoire",
+      "CountryCode": "CI",
+      "Slug": "cote-divoire",
+      "NewConfirmed": "151",
+      "TotalConfirmed": "50650",
+      "NewDeaths": "2",
+      "TotalDeaths": "334",
+      "NewRecovered": "89",
+      "TotalRecovered": "49642",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4853612d-a631-45fa-96ac-01bd0b1a8f77",
+      "Country": "Denmark",
+      "CountryCode": "DK",
+      "Slug": "denmark",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "320412",
+      "NewDeaths": "0",
+      "TotalDeaths": "2552",
+      "NewRecovered": "0",
+      "TotalRecovered": "306560",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "3208dc35-0570-4de5-8f1e-857593ad3f3c",
+      "Country": "Djibouti",
+      "CountryCode": "DJ",
+      "Slug": "djibouti",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "11655",
+      "NewDeaths": "0",
+      "TotalDeaths": "156",
+      "NewRecovered": "0",
+      "TotalRecovered": "11491",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "6703a6c9-cb54-4270-8d79-bb6b3546d79c",
+      "Country": "Dominica",
+      "CountryCode": "DM",
+      "Slug": "dominica",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "218",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "209",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f93976d1-a131-4ba9-a29e-b4d52266b649",
+      "Country": "Dominican Republic",
+      "CountryCode": "DO",
+      "Slug": "dominican-republic",
+      "NewConfirmed": "336",
+      "TotalConfirmed": "343186",
+      "NewDeaths": "3",
+      "TotalDeaths": "3971",
+      "NewRecovered": "381",
+      "TotalRecovered": "324861",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "cb115e3e-744a-4bc6-a09a-d11d8fff0f0a",
+      "Country": "Ecuador",
+      "CountryCode": "EC",
+      "Slug": "ecuador",
+      "NewConfirmed": "1387",
+      "TotalConfirmed": "489089",
+      "NewDeaths": "50",
+      "TotalDeaths": "31694",
+      "NewRecovered": "0",
+      "TotalRecovered": "443880",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f12d0a67-aec4-4690-9e07-ed8539d215a5",
+      "Country": "Egypt",
+      "CountryCode": "EG",
+      "Slug": "egypt",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "284415",
+      "NewDeaths": "0",
+      "TotalDeaths": "16540",
+      "NewRecovered": "0",
+      "TotalRecovered": "232060",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "811ad9f9-c699-4614-9ba2-bdb88e4135f0",
+      "Country": "El Salvador",
+      "CountryCode": "SV",
+      "Slug": "el-salvador",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "87498",
+      "NewDeaths": "9",
+      "TotalDeaths": "2672",
+      "NewRecovered": "0",
+      "TotalRecovered": "76670",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d7d72ba8-4f76-4099-89e7-5a4b4c264629",
+      "Country": "Equatorial Guinea",
+      "CountryCode": "GQ",
+      "Slug": "equatorial-guinea",
+      "NewConfirmed": "17",
+      "TotalConfirmed": "8928",
+      "NewDeaths": "0",
+      "TotalDeaths": "123",
+      "NewRecovered": "13",
+      "TotalRecovered": "8709",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b1cfce70-6ac7-4d68-800f-503e87449923",
+      "Country": "Eritrea",
+      "CountryCode": "ER",
+      "Slug": "eritrea",
+      "NewConfirmed": "4",
+      "TotalConfirmed": "6568",
+      "NewDeaths": "0",
+      "TotalDeaths": "35",
+      "NewRecovered": "3",
+      "TotalRecovered": "6475",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "2bc6a9e9-8000-4793-b465-538dad477552",
+      "Country": "Estonia",
+      "CountryCode": "EE",
+      "Slug": "estonia",
+      "NewConfirmed": "243",
+      "TotalConfirmed": "134221",
+      "NewDeaths": "0",
+      "TotalDeaths": "1273",
+      "NewRecovered": "131",
+      "TotalRecovered": "129183",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "2c27f7b8-ad7d-4b6d-8e8c-b274ebb9391c",
+      "Country": "Ethiopia",
+      "CountryCode": "ET",
+      "Slug": "ethiopia",
+      "NewConfirmed": "511",
+      "TotalConfirmed": "281811",
+      "NewDeaths": "8",
+      "TotalDeaths": "4403",
+      "NewRecovered": "123",
+      "TotalRecovered": "264008",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0ed92a84-a034-49da-be0c-740c8b87dd57",
+      "Country": "Fiji",
+      "CountryCode": "FJ",
+      "Slug": "fiji",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "32733",
+      "NewDeaths": "0",
+      "TotalDeaths": "261",
+      "NewRecovered": "0",
+      "TotalRecovered": "9644",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "165af6e0-5998-4d1b-92f3-e10909c67986",
+      "Country": "Finland",
+      "CountryCode": "FI",
+      "Slug": "finland",
+      "NewConfirmed": "872",
+      "TotalConfirmed": "109230",
+      "NewDeaths": "0",
+      "TotalDeaths": "984",
+      "NewRecovered": "0",
+      "TotalRecovered": "46000",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "823f9d3f-f4c2-4b82-8f2d-8568578d9fa8",
+      "Country": "France",
+      "CountryCode": "FR",
+      "Slug": "france",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "6242948",
+      "NewDeaths": "0",
+      "TotalDeaths": "112185",
+      "NewRecovered": "0",
+      "TotalRecovered": "414433",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "62e6a2d9-ae7d-4aa9-b952-1fa84cc2cd2c",
+      "Country": "Gabon",
+      "CountryCode": "GA",
+      "Slug": "gabon",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "25405",
+      "NewDeaths": "0",
+      "TotalDeaths": "164",
+      "NewRecovered": "0",
+      "TotalRecovered": "25191",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1c13ba4b-d931-43cd-9fa1-f9effeaf6ccd",
+      "Country": "Gambia",
+      "CountryCode": "GM",
+      "Slug": "gambia",
+      "NewConfirmed": "96",
+      "TotalConfirmed": "8392",
+      "NewDeaths": "6",
+      "TotalDeaths": "233",
+      "NewRecovered": "188",
+      "TotalRecovered": "7310",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "6bc80bbc-bfdc-485a-a9e4-e43fefaf5b43",
+      "Country": "Georgia",
+      "CountryCode": "GE",
+      "Slug": "georgia",
+      "NewConfirmed": "4233",
+      "TotalConfirmed": "432903",
+      "NewDeaths": "38",
+      "TotalDeaths": "5948",
+      "NewRecovered": "1934",
+      "TotalRecovered": "390827",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ced60255-8784-4744-af4c-f75a14fcb2c7",
+      "Country": "Germany",
+      "CountryCode": "DE",
+      "Slug": "germany",
+      "NewConfirmed": "2547",
+      "TotalConfirmed": "3782344",
+      "NewDeaths": "25",
+      "TotalDeaths": "91710",
+      "NewRecovered": "3200",
+      "TotalRecovered": "3658150",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "adb5454f-b452-497c-ab55-864601420761",
+      "Country": "Ghana",
+      "CountryCode": "GH",
+      "Slug": "ghana",
+      "NewConfirmed": "541",
+      "TotalConfirmed": "106053",
+      "NewDeaths": "3",
+      "TotalDeaths": "847",
+      "NewRecovered": "241",
+      "TotalRecovered": "98633",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4b55c2a6-4658-4171-a9b7-1defc7d4760d",
+      "Country": "Greece",
+      "CountryCode": "GR",
+      "Slug": "greece",
+      "NewConfirmed": "2855",
+      "TotalConfirmed": "503885",
+      "NewDeaths": "16",
+      "TotalDeaths": "12988",
+      "NewRecovered": "0",
+      "TotalRecovered": "93764",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "32bc2f87-7f59-4328-aa49-86ed9ff9732e",
+      "Country": "Grenada",
+      "CountryCode": "GD",
+      "Slug": "grenada",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "164",
+      "NewDeaths": "0",
+      "TotalDeaths": "1",
+      "NewRecovered": "0",
+      "TotalRecovered": "161",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b4f0af20-e1e0-453f-931a-296907689582",
+      "Country": "Guatemala",
+      "CountryCode": "GT",
+      "Slug": "guatemala",
+      "NewConfirmed": "4399",
+      "TotalConfirmed": "377446",
+      "NewDeaths": "41",
+      "TotalDeaths": "10524",
+      "NewRecovered": "2609",
+      "TotalRecovered": "331374",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "99f956d2-1891-4ed5-8cb6-34d530f3e1c2",
+      "Country": "Guinea",
+      "CountryCode": "GN",
+      "Slug": "guinea",
+      "NewConfirmed": "196",
+      "TotalConfirmed": "26188",
+      "NewDeaths": "4",
+      "TotalDeaths": "238",
+      "NewRecovered": "105",
+      "TotalRecovered": "24463",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7fa0d83f-d2ed-4cda-9dfb-537053433fc6",
+      "Country": "Guinea-Bissau",
+      "CountryCode": "GW",
+      "Slug": "guinea-bissau",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "4588",
+      "NewDeaths": "0",
+      "TotalDeaths": "78",
+      "NewRecovered": "0",
+      "TotalRecovered": "3995",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f5489f75-214c-47b0-9236-d66ef5cb9ed3",
+      "Country": "Guyana",
+      "CountryCode": "GY",
+      "Slug": "guyana",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "22643",
+      "NewDeaths": "0",
+      "TotalDeaths": "549",
+      "NewRecovered": "0",
+      "TotalRecovered": "22327",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ba3e3af8-5654-4bf6-9d81-c8df0f5bcc3c",
+      "Country": "Haiti",
+      "CountryCode": "HT",
+      "Slug": "haiti",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "20307",
+      "NewDeaths": "0",
+      "TotalDeaths": "560",
+      "NewRecovered": "0",
+      "TotalRecovered": "12961",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "bbc5fe47-c663-4306-a336-fa39559b041f",
+      "Country": "Holy See (Vatican City State)",
+      "CountryCode": "VA",
+      "Slug": "holy-see-vatican-city-state",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "27",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "27",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "deb596e3-0e95-4fac-ad64-c0fd57bd88d5",
+      "Country": "Honduras",
+      "CountryCode": "HN",
+      "Slug": "honduras",
+      "NewConfirmed": "2815",
+      "TotalConfirmed": "303387",
+      "NewDeaths": "112",
+      "TotalDeaths": "8014",
+      "NewRecovered": "265",
+      "TotalRecovered": "101909",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8c495f96-eea2-4804-a3ec-f4a3868c482d",
+      "Country": "Hungary",
+      "CountryCode": "HU",
+      "Slug": "hungary",
+      "NewConfirmed": "59",
+      "TotalConfirmed": "809731",
+      "NewDeaths": "3",
+      "TotalDeaths": "30032",
+      "NewRecovered": "312",
+      "TotalRecovered": "749773",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "cc978e8c-d522-4698-ade2-61d92e7a8548",
+      "Country": "Iceland",
+      "CountryCode": "IS",
+      "Slug": "iceland",
+      "NewConfirmed": "120",
+      "TotalConfirmed": "8353",
+      "NewDeaths": "0",
+      "TotalDeaths": "30",
+      "NewRecovered": "94",
+      "TotalRecovered": "6993",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "74b7628d-ae8c-43cb-92b3-ea13c9adccf6",
+      "Country": "India",
+      "CountryCode": "IN",
+      "Slug": "india",
+      "NewConfirmed": "42625",
+      "TotalConfirmed": "31769132",
+      "NewDeaths": "562",
+      "TotalDeaths": "425757",
+      "NewRecovered": "36668",
+      "TotalRecovered": "30933022",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c6063864-cd24-43b8-8fc3-d40a762432e3",
+      "Country": "Indonesia",
+      "CountryCode": "ID",
+      "Slug": "indonesia",
+      "NewConfirmed": "35867",
+      "TotalConfirmed": "3532567",
+      "NewDeaths": "1747",
+      "TotalDeaths": "100636",
+      "NewRecovered": "34251",
+      "TotalRecovered": "2907920",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "532fa79e-e0c5-429b-bd3f-2477e1f5a2b1",
+      "Country": "Iran, Islamic Republic of",
+      "CountryCode": "IR",
+      "Slug": "iran",
+      "NewConfirmed": "39357",
+      "TotalConfirmed": "4019084",
+      "NewDeaths": "409",
+      "TotalDeaths": "92194",
+      "NewRecovered": "20148",
+      "TotalRecovered": "3444798",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "66c35c71-bf04-44aa-a17f-3ac3bd1e26b3",
+      "Country": "Iraq",
+      "CountryCode": "IQ",
+      "Slug": "iraq",
+      "NewConfirmed": "12713",
+      "TotalConfirmed": "1673084",
+      "NewDeaths": "73",
+      "TotalDeaths": "18938",
+      "NewRecovered": "6574",
+      "TotalRecovered": "1494760",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "61e371c1-dfec-4bde-a3ae-330731aacd06",
+      "Country": "Ireland",
+      "CountryCode": "IE",
+      "Slug": "ireland",
+      "NewConfirmed": "1217",
+      "TotalConfirmed": "305527",
+      "NewDeaths": "9",
+      "TotalDeaths": "5044",
+      "NewRecovered": "0",
+      "TotalRecovered": "23364",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "e514b7bf-4134-486f-9eeb-b60124d41e0d",
+      "Country": "Israel",
+      "CountryCode": "IL",
+      "Slug": "israel",
+      "NewConfirmed": "2968",
+      "TotalConfirmed": "885766",
+      "NewDeaths": "8",
+      "TotalDeaths": "6503",
+      "NewRecovered": "1738",
+      "TotalRecovered": "854888",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "6205c57c-8f7a-444f-bbac-e73b532724db",
+      "Country": "Italy",
+      "CountryCode": "IT",
+      "Slug": "italy",
+      "NewConfirmed": "4841",
+      "TotalConfirmed": "4363374",
+      "NewDeaths": "27",
+      "TotalDeaths": "128115",
+      "NewRecovered": "3615",
+      "TotalRecovered": "4141043",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "12b56b20-8996-48cb-ab22-22822ca009b7",
+      "Country": "Jamaica",
+      "CountryCode": "JM",
+      "Slug": "jamaica",
+      "NewConfirmed": "96",
+      "TotalConfirmed": "53639",
+      "NewDeaths": "4",
+      "TotalDeaths": "1207",
+      "NewRecovered": "23",
+      "TotalRecovered": "47101",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8ebf248a-2517-4fde-ad42-ec1d98ce3f64",
+      "Country": "Japan",
+      "CountryCode": "JP",
+      "Slug": "japan",
+      "NewConfirmed": "12045",
+      "TotalConfirmed": "957791",
+      "NewDeaths": "10",
+      "TotalDeaths": "15232",
+      "NewRecovered": "5093",
+      "TotalRecovered": "847717",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "297cea8b-12b1-4325-aaff-823e6d02a138",
+      "Country": "Jordan",
+      "CountryCode": "JO",
+      "Slug": "jordan",
+      "NewConfirmed": "897",
+      "TotalConfirmed": "774554",
+      "NewDeaths": "11",
+      "TotalDeaths": "10082",
+      "NewRecovered": "275",
+      "TotalRecovered": "752624",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "766fd110-6374-4523-ad19-ebb419990b00",
+      "Country": "Kazakhstan",
+      "CountryCode": "KZ",
+      "Slug": "kazakhstan",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "664724",
+      "NewDeaths": "0",
+      "TotalDeaths": "9077",
+      "NewRecovered": "0",
+      "TotalRecovered": "547650",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f12fa316-3271-4880-b661-1e1067370d66",
+      "Country": "Kenya",
+      "CountryCode": "KE",
+      "Slug": "kenya",
+      "NewConfirmed": "1335",
+      "TotalConfirmed": "206691",
+      "NewDeaths": "30",
+      "TotalDeaths": "4025",
+      "NewRecovered": "1093",
+      "TotalRecovered": "191188",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "28b29241-86f1-4404-adde-e2ed372d9b23",
+      "Country": "Kiribati",
+      "CountryCode": "KI",
+      "Slug": "kiribati",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "2",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "90f06201-dfc8-4a20-91a0-d83c495cfe40",
+      "Country": "Korea (South)",
+      "CountryCode": "KR",
+      "Slug": "korea-south",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "203926",
+      "NewDeaths": "0",
+      "TotalDeaths": "2106",
+      "NewRecovered": "0",
+      "TotalRecovered": "179123",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "a427b9d2-5ab7-481c-a664-d6f52be79a78",
+      "Country": "Kuwait",
+      "CountryCode": "KW",
+      "Slug": "kuwait",
+      "NewConfirmed": "851",
+      "TotalConfirmed": "400979",
+      "NewDeaths": "6",
+      "TotalDeaths": "2351",
+      "NewRecovered": "1048",
+      "TotalRecovered": "388880",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d471c5f6-ab6b-4b24-8b4c-8397e19a0712",
+      "Country": "Kyrgyzstan",
+      "CountryCode": "KG",
+      "Slug": "kyrgyzstan",
+      "NewConfirmed": "696",
+      "TotalConfirmed": "166236",
+      "NewDeaths": "9",
+      "TotalDeaths": "2363",
+      "NewRecovered": "1681",
+      "TotalRecovered": "150852",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c0c71793-9add-484e-820d-3e15617f562e",
+      "Country": "Lao PDR",
+      "CountryCode": "LA",
+      "Slug": "lao-pdr",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "7015",
+      "NewDeaths": "0",
+      "TotalDeaths": "7",
+      "NewRecovered": "0",
+      "TotalRecovered": "3392",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "45270f75-2388-4224-b5f8-cc06d3cd3cf6",
+      "Country": "Latvia",
+      "CountryCode": "LV",
+      "Slug": "latvia",
+      "NewConfirmed": "97",
+      "TotalConfirmed": "139134",
+      "NewDeaths": "2",
+      "TotalDeaths": "2558",
+      "NewRecovered": "0",
+      "TotalRecovered": "135690",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "954526f6-09d4-4fea-b7b0-ede2baec2fe3",
+      "Country": "Lebanon",
+      "CountryCode": "LB",
+      "Slug": "lebanon",
+      "NewConfirmed": "1542",
+      "TotalConfirmed": "565896",
+      "NewDeaths": "4",
+      "TotalDeaths": "7921",
+      "NewRecovered": "0",
+      "TotalRecovered": "537653",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "91649930-92b9-439a-9210-6779de5cfa3a",
+      "Country": "Lesotho",
+      "CountryCode": "LS",
+      "Slug": "lesotho",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "13603",
+      "NewDeaths": "0",
+      "TotalDeaths": "377",
+      "NewRecovered": "0",
+      "TotalRecovered": "6664",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "6841ef0e-8b17-4271-8b64-083a14fe8e13",
+      "Country": "Liberia",
+      "CountryCode": "LR",
+      "Slug": "liberia",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "5459",
+      "NewDeaths": "0",
+      "TotalDeaths": "148",
+      "NewRecovered": "0",
+      "TotalRecovered": "2715",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b9a00be8-ef6d-443b-8b41-f52412e731ec",
+      "Country": "Libya",
+      "CountryCode": "LY",
+      "Slug": "libya",
+      "NewConfirmed": "2484",
+      "TotalConfirmed": "260951",
+      "NewDeaths": "26",
+      "TotalDeaths": "3635",
+      "NewRecovered": "1422",
+      "TotalRecovered": "195639",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "735240a5-e7bd-4b8d-a81a-f0ea05d576ee",
+      "Country": "Liechtenstein",
+      "CountryCode": "LI",
+      "Slug": "liechtenstein",
+      "NewConfirmed": "2",
+      "TotalConfirmed": "3091",
+      "NewDeaths": "0",
+      "TotalDeaths": "59",
+      "NewRecovered": "0",
+      "TotalRecovered": "3011",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "246fd8ae-9b35-48fb-a6c3-79aaec397b70",
+      "Country": "Lithuania",
+      "CountryCode": "LT",
+      "Slug": "lithuania",
+      "NewConfirmed": "535",
+      "TotalConfirmed": "284191",
+      "NewDeaths": "2",
+      "TotalDeaths": "4422",
+      "NewRecovered": "178",
+      "TotalRecovered": "269840",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "359d097d-8302-4ee1-8372-ad756972e99e",
+      "Country": "Luxembourg",
+      "CountryCode": "LU",
+      "Slug": "luxembourg",
+      "NewConfirmed": "102",
+      "TotalConfirmed": "74144",
+      "NewDeaths": "2",
+      "TotalDeaths": "824",
+      "NewRecovered": "89",
+      "TotalRecovered": "72306",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "500d4907-6a32-4e90-89f9-098a3247717f",
+      "Country": "Macedonia, Republic of",
+      "CountryCode": "MK",
+      "Slug": "macedonia",
+      "NewConfirmed": "164",
+      "TotalConfirmed": "156707",
+      "NewDeaths": "3",
+      "TotalDeaths": "5497",
+      "NewRecovered": "18",
+      "TotalRecovered": "150440",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "71492b0d-7866-4d33-b321-5219ef701d95",
+      "Country": "Madagascar",
+      "CountryCode": "MG",
+      "Slug": "madagascar",
+      "NewConfirmed": "11",
+      "TotalConfirmed": "42685",
+      "NewDeaths": "0",
+      "TotalDeaths": "943",
+      "NewRecovered": "4",
+      "TotalRecovered": "41177",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "e92453a3-2604-431f-a25f-a30c092bc0e2",
+      "Country": "Malawi",
+      "CountryCode": "MW",
+      "Slug": "malawi",
+      "NewConfirmed": "675",
+      "TotalConfirmed": "54178",
+      "NewDeaths": "29",
+      "TotalDeaths": "1729",
+      "NewRecovered": "794",
+      "TotalRecovered": "39841",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "68097475-318d-4535-ac70-b7fb6dba5a26",
+      "Country": "Malaysia",
+      "CountryCode": "MY",
+      "Slug": "malaysia",
+      "NewConfirmed": "19819",
+      "TotalConfirmed": "1183110",
+      "NewDeaths": "257",
+      "TotalDeaths": "9855",
+      "NewRecovered": "12704",
+      "TotalRecovered": "962733",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1d025ba0-4ee4-4057-98b3-9bdc9db0f722",
+      "Country": "Maldives",
+      "CountryCode": "MV",
+      "Slug": "maldives",
+      "NewConfirmed": "137",
+      "TotalConfirmed": "77895",
+      "NewDeaths": "0",
+      "TotalDeaths": "222",
+      "NewRecovered": "30",
+      "TotalRecovered": "75095",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4216738a-0fa2-4ebb-be2d-b1c8d7aa7d0e",
+      "Country": "Mali",
+      "CountryCode": "ML",
+      "Slug": "mali",
+      "NewConfirmed": "10",
+      "TotalConfirmed": "14605",
+      "NewDeaths": "0",
+      "TotalDeaths": "534",
+      "NewRecovered": "2",
+      "TotalRecovered": "13962",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0b4f901c-f3d5-4c0d-8ac9-ba0186e10a71",
+      "Country": "Malta",
+      "CountryCode": "MT",
+      "Slug": "malta",
+      "NewConfirmed": "82",
+      "TotalConfirmed": "34590",
+      "NewDeaths": "0",
+      "TotalDeaths": "423",
+      "NewRecovered": "293",
+      "TotalRecovered": "32438",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ae57fbe8-1dcf-4618-8ace-c232fcec27d1",
+      "Country": "Marshall Islands",
+      "CountryCode": "MH",
+      "Slug": "marshall-islands",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "4",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "4",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "04ef345e-afb6-4a58-883f-d78a86ef574d",
+      "Country": "Mauritania",
+      "CountryCode": "MR",
+      "Slug": "mauritania",
+      "NewConfirmed": "347",
+      "TotalConfirmed": "26902",
+      "NewDeaths": "5",
+      "TotalDeaths": "581",
+      "NewRecovered": "154",
+      "TotalRecovered": "22859",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f77c08ca-9da0-47f5-8341-93ac53e007df",
+      "Country": "Mauritius",
+      "CountryCode": "MU",
+      "Slug": "mauritius",
+      "NewConfirmed": "100",
+      "TotalConfirmed": "4493",
+      "NewDeaths": "0",
+      "TotalDeaths": "20",
+      "NewRecovered": "0",
+      "TotalRecovered": "1854",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "e6f6f984-affc-4615-8faa-f6f7bcd04617",
+      "Country": "Mexico",
+      "CountryCode": "MX",
+      "Slug": "mexico",
+      "NewConfirmed": "18911",
+      "TotalConfirmed": "2880409",
+      "NewDeaths": "657",
+      "TotalDeaths": "241936",
+      "NewRecovered": "15575",
+      "TotalRecovered": "2257443",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ef1c5284-b347-46d6-98b1-d36a174ac7d4",
+      "Country": "Micronesia, Federated States of",
+      "CountryCode": "FM",
+      "Slug": "micronesia",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "1",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "1",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "95a02e23-03f7-49a4-874b-d3c7df081ce0",
+      "Country": "Moldova",
+      "CountryCode": "MD",
+      "Slug": "moldova",
+      "NewConfirmed": "196",
+      "TotalConfirmed": "260024",
+      "NewDeaths": "5",
+      "TotalDeaths": "6266",
+      "NewRecovered": "138",
+      "TotalRecovered": "252421",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "067f9cf8-9716-434c-9011-7e2f0ebc344c",
+      "Country": "Monaco",
+      "CountryCode": "MC",
+      "Slug": "monaco",
+      "NewConfirmed": "14",
+      "TotalConfirmed": "2940",
+      "NewDeaths": "0",
+      "TotalDeaths": "33",
+      "NewRecovered": "15",
+      "TotalRecovered": "2759",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "dbda1aff-95bf-4aa2-98b1-89b515914181",
+      "Country": "Mongolia",
+      "CountryCode": "MN",
+      "Slug": "mongolia",
+      "NewConfirmed": "1444",
+      "TotalConfirmed": "168673",
+      "NewDeaths": "6",
+      "TotalDeaths": "833",
+      "NewRecovered": "0",
+      "TotalRecovered": "158685",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ed1363f0-9ab4-44ab-bda7-c141e8eae7ec",
+      "Country": "Montenegro",
+      "CountryCode": "ME",
+      "Slug": "montenegro",
+      "NewConfirmed": "257",
+      "TotalConfirmed": "102660",
+      "NewDeaths": "2",
+      "TotalDeaths": "1633",
+      "NewRecovered": "47",
+      "TotalRecovered": "99152",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "07bc5c87-429f-4639-9026-90f14182cc21",
+      "Country": "Morocco",
+      "CountryCode": "MA",
+      "Slug": "morocco",
+      "NewConfirmed": "10603",
+      "TotalConfirmed": "653286",
+      "NewDeaths": "66",
+      "TotalDeaths": "10015",
+      "NewRecovered": "7774",
+      "TotalRecovered": "582692",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b01fac88-a3d0-43e6-ab96-671cffb9b058",
+      "Country": "Mozambique",
+      "CountryCode": "MZ",
+      "Slug": "mozambique",
+      "NewConfirmed": "1034",
+      "TotalConfirmed": "127425",
+      "NewDeaths": "26",
+      "TotalDeaths": "1526",
+      "NewRecovered": "4466",
+      "TotalRecovered": "100912",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7f04cb87-95fb-4910-af58-627da4846e75",
+      "Country": "Myanmar",
+      "CountryCode": "MM",
+      "Slug": "myanmar",
+      "NewConfirmed": "4051",
+      "TotalConfirmed": "315118",
+      "NewDeaths": "322",
+      "TotalDeaths": "10695",
+      "NewRecovered": "4962",
+      "TotalRecovered": "225849",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ee53fad5-3cc7-49b8-ac0a-f4e960197351",
+      "Country": "Namibia",
+      "CountryCode": "NA",
+      "Slug": "namibia",
+      "NewConfirmed": "187",
+      "TotalConfirmed": "119984",
+      "NewDeaths": "32",
+      "TotalDeaths": "3112",
+      "NewRecovered": "227",
+      "TotalRecovered": "96568",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "5cef042f-bc5d-44f6-a016-04d499590acf",
+      "Country": "Nepal",
+      "CountryCode": "NP",
+      "Slug": "nepal",
+      "NewConfirmed": "2975",
+      "TotalConfirmed": "705072",
+      "NewDeaths": "35",
+      "TotalDeaths": "9957",
+      "NewRecovered": "1535",
+      "TotalRecovered": "661651",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c9ecec53-2ef4-44a8-a6c4-7713dc5b12b7",
+      "Country": "Netherlands",
+      "CountryCode": "NL",
+      "Slug": "netherlands",
+      "NewConfirmed": "2184",
+      "TotalConfirmed": "1872093",
+      "NewDeaths": "3",
+      "TotalDeaths": "17832",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4632c67e-50e0-4a2b-9e49-9eb12b5aec47",
+      "Country": "New Zealand",
+      "CountryCode": "NZ",
+      "Slug": "new-zealand",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "2880",
+      "NewDeaths": "0",
+      "TotalDeaths": "26",
+      "NewRecovered": "0",
+      "TotalRecovered": "2824",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "68bfd706-bfcc-4f46-9a82-3df8f2b0ab44",
+      "Country": "Nicaragua",
+      "CountryCode": "NI",
+      "Slug": "nicaragua",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "9853",
+      "NewDeaths": "0",
+      "TotalDeaths": "196",
+      "NewRecovered": "0",
+      "TotalRecovered": "4225",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0f4abc31-14e3-42e4-87fc-4374cb12c3bf",
+      "Country": "Niger",
+      "CountryCode": "NE",
+      "Slug": "niger",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "5658",
+      "NewDeaths": "0",
+      "TotalDeaths": "196",
+      "NewRecovered": "0",
+      "TotalRecovered": "5349",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7e23f2cd-05f8-4366-bd9c-7260f09ce0a2",
+      "Country": "Nigeria",
+      "CountryCode": "NG",
+      "Slug": "nigeria",
+      "NewConfirmed": "747",
+      "TotalConfirmed": "176011",
+      "NewDeaths": "4",
+      "TotalDeaths": "2167",
+      "NewRecovered": "86",
+      "TotalRecovered": "165208",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8f5f399a-e8f4-4ca9-882d-17822f118832",
+      "Country": "Norway",
+      "CountryCode": "NO",
+      "Slug": "norway",
+      "NewConfirmed": "205",
+      "TotalConfirmed": "138945",
+      "NewDeaths": "5",
+      "TotalDeaths": "804",
+      "NewRecovered": "0",
+      "TotalRecovered": "17998",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7f15e5f1-a532-45d0-85b8-d1cc65e10fd9",
+      "Country": "Oman",
+      "CountryCode": "OM",
+      "Slug": "oman",
+      "NewConfirmed": "293",
+      "TotalConfirmed": "297724",
+      "NewDeaths": "12",
+      "TotalDeaths": "3889",
+      "NewRecovered": "797",
+      "TotalRecovered": "281724",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8299ce7c-54af-4ada-adb6-8ee2c33b56ef",
+      "Country": "Pakistan",
+      "CountryCode": "PK",
+      "Slug": "pakistan",
+      "NewConfirmed": "4722",
+      "TotalConfirmed": "1047999",
+      "NewDeaths": "46",
+      "TotalDeaths": "23575",
+      "NewRecovered": "1454",
+      "TotalRecovered": "945829",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7e30891e-ad2e-420b-93a2-b3d48afbdfa2",
+      "Country": "Palau",
+      "CountryCode": "PW",
+      "Slug": "palau",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "0",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0056a1fc-41e3-4c0c-aa9e-a3ccfdc6b7f9",
+      "Country": "Palestinian Territory",
+      "CountryCode": "PS",
+      "Slug": "palestine",
+      "NewConfirmed": "140",
+      "TotalConfirmed": "317404",
+      "NewDeaths": "0",
+      "TotalDeaths": "3609",
+      "NewRecovered": "31",
+      "TotalRecovered": "312320",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "e66658ac-488d-41bf-a80b-385038fefaee",
+      "Country": "Panama",
+      "CountryCode": "PA",
+      "Slug": "panama",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "437744",
+      "NewDeaths": "0",
+      "TotalDeaths": "6851",
+      "NewRecovered": "0",
+      "TotalRecovered": "418935",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f7c71854-edd5-48cd-b6bf-2cdf2d0652c3",
+      "Country": "Papua New Guinea",
+      "CountryCode": "PG",
+      "Slug": "papua-new-guinea",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "17774",
+      "NewDeaths": "0",
+      "TotalDeaths": "192",
+      "NewRecovered": "0",
+      "TotalRecovered": "17384",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "ba396d67-3f99-4b25-868f-167b1625ae56",
+      "Country": "Paraguay",
+      "CountryCode": "PY",
+      "Slug": "paraguay",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "453367",
+      "NewDeaths": "0",
+      "TotalDeaths": "15135",
+      "NewRecovered": "0",
+      "TotalRecovered": "422995",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "a242d199-7096-4bf6-8751-a76970bfc05a",
+      "Country": "Peru",
+      "CountryCode": "PE",
+      "Slug": "peru",
+      "NewConfirmed": "2207",
+      "TotalConfirmed": "2116652",
+      "NewDeaths": "80",
+      "TotalDeaths": "196598",
+      "NewRecovered": "1992",
+      "TotalRecovered": "2083747",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1a161c5c-7a3e-4f27-8f07-375e82be47c2",
+      "Country": "Philippines",
+      "CountryCode": "PH",
+      "Slug": "philippines",
+      "NewConfirmed": "7283",
+      "TotalConfirmed": "1619824",
+      "NewDeaths": "90",
+      "TotalDeaths": "28231",
+      "NewRecovered": "7159",
+      "TotalRecovered": "1528422",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "8fe419ac-d470-44fc-a211-c2f47858cd09",
+      "Country": "Poland",
+      "CountryCode": "PL",
+      "Slug": "poland",
+      "NewConfirmed": "164",
+      "TotalConfirmed": "2883448",
+      "NewDeaths": "4",
+      "TotalDeaths": "75269",
+      "NewRecovered": "47",
+      "TotalRecovered": "2653981",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7531530a-a664-42f0-ad7e-ffae22d466e0",
+      "Country": "Portugal",
+      "CountryCode": "PT",
+      "Slug": "portugal",
+      "NewConfirmed": "3203",
+      "TotalConfirmed": "977406",
+      "NewDeaths": "15",
+      "TotalDeaths": "17412",
+      "NewRecovered": "3290",
+      "TotalRecovered": "912620",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "88774f97-1bfd-4199-9f3e-08bebf8be029",
+      "Country": "Qatar",
+      "CountryCode": "QA",
+      "Slug": "qatar",
+      "NewConfirmed": "164",
+      "TotalConfirmed": "226874",
+      "NewDeaths": "0",
+      "TotalDeaths": "601",
+      "NewRecovered": "156",
+      "TotalRecovered": "224285",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d823b2c4-9eaa-48b1-882f-a93122aeb0c6",
+      "Country": "Republic of Kosovo",
+      "CountryCode": "XK",
+      "Slug": "kosovo",
+      "NewConfirmed": "221",
+      "TotalConfirmed": "108844",
+      "NewDeaths": "0",
+      "TotalDeaths": "2269",
+      "NewRecovered": "21",
+      "TotalRecovered": "105688",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "24c4261c-99dc-4ccc-b6e0-d11de724efe3",
+      "Country": "Romania",
+      "CountryCode": "RO",
+      "Slug": "romania",
+      "NewConfirmed": "271",
+      "TotalConfirmed": "1083982",
+      "NewDeaths": "1",
+      "TotalDeaths": "34298",
+      "NewRecovered": "157",
+      "TotalRecovered": "1048072",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1eee87a5-70b0-402b-81ce-6e560ba21eab",
+      "Country": "Russian Federation",
+      "CountryCode": "RU",
+      "Slug": "russia",
+      "NewConfirmed": "21471",
+      "TotalConfirmed": "6251953",
+      "NewDeaths": "767",
+      "TotalDeaths": "158263",
+      "NewRecovered": "18605",
+      "TotalRecovered": "5590137",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "53a9f512-b647-4b3e-8f62-f603ead1721b",
+      "Country": "Rwanda",
+      "CountryCode": "RW",
+      "Slug": "rwanda",
+      "NewConfirmed": "769",
+      "TotalConfirmed": "73610",
+      "NewDeaths": "6",
+      "TotalDeaths": "850",
+      "NewRecovered": "24",
+      "TotalRecovered": "44911",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c4e154c5-702d-4170-9c7f-f89bbe95e1d3",
+      "Country": "Saint Kitts and Nevis",
+      "CountryCode": "KN",
+      "Slug": "saint-kitts-and-nevis",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "600",
+      "NewDeaths": "0",
+      "TotalDeaths": "3",
+      "NewRecovered": "0",
+      "TotalRecovered": "549",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d479e035-6011-41e8-a7dd-be07ab04be2e",
+      "Country": "Saint Lucia",
+      "CountryCode": "LC",
+      "Slug": "saint-lucia",
+      "NewConfirmed": "19",
+      "TotalConfirmed": "5671",
+      "NewDeaths": "0",
+      "TotalDeaths": "89",
+      "NewRecovered": "8",
+      "TotalRecovered": "5398",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "1510b61c-5a6d-42b0-bb57-5508227dc8e8",
+      "Country": "Saint Vincent and Grenadines",
+      "CountryCode": "VC",
+      "Slug": "saint-vincent-and-the-grenadines",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "2297",
+      "NewDeaths": "0",
+      "TotalDeaths": "12",
+      "NewRecovered": "0",
+      "TotalRecovered": "2230",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b07f967b-a537-4de4-80d6-c504556d6637",
+      "Country": "Samoa",
+      "CountryCode": "WS",
+      "Slug": "samoa",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "3",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "3",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "a341569c-26a6-4b7e-88fe-8a26535d8b36",
+      "Country": "San Marino",
+      "CountryCode": "SM",
+      "Slug": "san-marino",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "5147",
+      "NewDeaths": "0",
+      "TotalDeaths": "90",
+      "NewRecovered": "0",
+      "TotalRecovered": "5009",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "7bbb8ab8-0330-4544-b5b2-f375cf3addb1",
+      "Country": "Sao Tome and Principe",
+      "CountryCode": "ST",
+      "Slug": "sao-tome-and-principe",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "2457",
+      "NewDeaths": "0",
+      "TotalDeaths": "37",
+      "NewRecovered": "0",
+      "TotalRecovered": "2361",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d2e4f331-5b2b-4552-a5ca-e63268171355",
+      "Country": "Saudi Arabia",
+      "CountryCode": "SA",
+      "Slug": "saudi-arabia",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "526814",
+      "NewDeaths": "0",
+      "TotalDeaths": "8249",
+      "NewRecovered": "0",
+      "TotalRecovered": "507374",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c933a217-905e-4d43-8644-163e624d29fa",
+      "Country": "Senegal",
+      "CountryCode": "SN",
+      "Slug": "senegal",
+      "NewConfirmed": "498",
+      "TotalConfirmed": "64522",
+      "NewDeaths": "29",
+      "TotalDeaths": "1423",
+      "NewRecovered": "434",
+      "TotalRecovered": "48812",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "2ec17133-79c0-4cd3-a666-9a470e0b5252",
+      "Country": "Serbia",
+      "CountryCode": "RS",
+      "Slug": "serbia",
+      "NewConfirmed": "487",
+      "TotalConfirmed": "723518",
+      "NewDeaths": "2",
+      "TotalDeaths": "7129",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "baabecc7-db63-4e05-a8bf-715d9351fdd8",
+      "Country": "Seychelles",
+      "CountryCode": "SC",
+      "Slug": "seychelles",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "18384",
+      "NewDeaths": "0",
+      "TotalDeaths": "94",
+      "NewRecovered": "0",
+      "TotalRecovered": "17874",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b90523fc-c637-47d4-af6b-18f48179ed12",
+      "Country": "Sierra Leone",
+      "CountryCode": "SL",
+      "Slug": "sierra-leone",
+      "NewConfirmed": "4",
+      "TotalConfirmed": "6296",
+      "NewDeaths": "0",
+      "TotalDeaths": "120",
+      "NewRecovered": "6",
+      "TotalRecovered": "4287",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d7e096dd-46e0-47ee-84d4-fbdeb777b98e",
+      "Country": "Singapore",
+      "CountryCode": "SG",
+      "Slug": "singapore",
+      "NewConfirmed": "95",
+      "TotalConfirmed": "65410",
+      "NewDeaths": "1",
+      "TotalDeaths": "39",
+      "NewRecovered": "105",
+      "TotalRecovered": "63357",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "70114b4f-8e6e-478c-a68b-6e4eab7a43e8",
+      "Country": "Slovakia",
+      "CountryCode": "SK",
+      "Slug": "slovakia",
+      "NewConfirmed": "94",
+      "TotalConfirmed": "392845",
+      "NewDeaths": "0",
+      "TotalDeaths": "12541",
+      "NewRecovered": "0",
+      "TotalRecovered": "255300",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "69fb3460-1fec-419a-adb8-584a8181587d",
+      "Country": "Slovenia",
+      "CountryCode": "SI",
+      "Slug": "slovenia",
+      "NewConfirmed": "139",
+      "TotalConfirmed": "259625",
+      "NewDeaths": "0",
+      "TotalDeaths": "4429",
+      "NewRecovered": "111",
+      "TotalRecovered": "253972",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "26dc4086-64a4-498a-827a-b661b5f2ad5d",
+      "Country": "Solomon Islands",
+      "CountryCode": "SB",
+      "Slug": "solomon-islands",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "20",
+      "NewDeaths": "0",
+      "TotalDeaths": "0",
+      "NewRecovered": "0",
+      "TotalRecovered": "20",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "738437df-55bb-4102-8d11-5973585e415f",
+      "Country": "Somalia",
+      "CountryCode": "SO",
+      "Slug": "somalia",
+      "NewConfirmed": "64",
+      "TotalConfirmed": "15658",
+      "NewDeaths": "4",
+      "TotalDeaths": "832",
+      "NewRecovered": "28",
+      "TotalRecovered": "7661",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "fa31a5a2-e603-43c2-b115-e959aa58e8d5",
+      "Country": "South Africa",
+      "CountryCode": "ZA",
+      "Slug": "south-africa",
+      "NewConfirmed": "13263",
+      "TotalConfirmed": "2484009",
+      "NewDeaths": "423",
+      "TotalDeaths": "73415",
+      "NewRecovered": "7895",
+      "TotalRecovered": "2258603",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b8f853e5-3f6a-4d83-bde1-db2cc10cd153",
+      "Country": "South Sudan",
+      "CountryCode": "SS",
+      "Slug": "south-sudan",
+      "NewConfirmed": "5",
+      "TotalConfirmed": "11081",
+      "NewDeaths": "0",
+      "TotalDeaths": "120",
+      "NewRecovered": "0",
+      "TotalRecovered": "10514",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "bf49b467-581d-4cbc-9186-08e1cc40a271",
+      "Country": "Spain",
+      "CountryCode": "ES",
+      "Slug": "spain",
+      "NewConfirmed": "20327",
+      "TotalConfirmed": "4523310",
+      "NewDeaths": "130",
+      "TotalDeaths": "81773",
+      "NewRecovered": "0",
+      "TotalRecovered": "150376",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "441f2482-6c67-48cf-88c4-86b7c509999f",
+      "Country": "Sri Lanka",
+      "CountryCode": "LK",
+      "Slug": "sri-lanka",
+      "NewConfirmed": "2536",
+      "TotalConfirmed": "318755",
+      "NewDeaths": "82",
+      "TotalDeaths": "4727",
+      "NewRecovered": "1754",
+      "TotalRecovered": "284524",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "edd459ca-56f8-40b0-893f-54d4d403adbd",
+      "Country": "Sudan",
+      "CountryCode": "SD",
+      "Slug": "sudan",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "37138",
+      "NewDeaths": "0",
+      "TotalDeaths": "2776",
+      "NewRecovered": "0",
+      "TotalRecovered": "30647",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "15bba69a-ca89-43be-a131-c72f28a3dfdd",
+      "Country": "Suriname",
+      "CountryCode": "SR",
+      "Slug": "suriname",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "25549",
+      "NewDeaths": "0",
+      "TotalDeaths": "654",
+      "NewRecovered": "0",
+      "TotalRecovered": "21913",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f6b2f2df-e4af-4edf-a103-4eae7177ce2c",
+      "Country": "Swaziland",
+      "CountryCode": "SZ",
+      "Slug": "swaziland",
+      "NewConfirmed": "1068",
+      "TotalConfirmed": "28535",
+      "NewDeaths": "5",
+      "TotalDeaths": "818",
+      "NewRecovered": "306",
+      "TotalRecovered": "22127",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "97151a59-79e3-44ee-bf06-38c287090e3c",
+      "Country": "Sweden",
+      "CountryCode": "SE",
+      "Slug": "sweden",
+      "NewConfirmed": "1860",
+      "TotalConfirmed": "1101900",
+      "NewDeaths": "2",
+      "TotalDeaths": "14657",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b56fc8aa-8783-407d-a671-1bd29cad4d35",
+      "Country": "Switzerland",
+      "CountryCode": "CH",
+      "Slug": "switzerland",
+      "NewConfirmed": "1033",
+      "TotalConfirmed": "721776",
+      "NewDeaths": "2",
+      "TotalDeaths": "10908",
+      "NewRecovered": "0",
+      "TotalRecovered": "317600",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f4292b0b-4568-4382-8527-c752827cab13",
+      "Country": "Syrian Arab Republic (Syria)",
+      "CountryCode": "SY",
+      "Slug": "syria",
+      "NewConfirmed": "18",
+      "TotalConfirmed": "26044",
+      "NewDeaths": "1",
+      "TotalDeaths": "1919",
+      "NewRecovered": "8",
+      "TotalRecovered": "22019",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "20df8561-8bc0-4c0d-a7f4-e2306fc0cc4b",
+      "Country": "Taiwan, Republic of China",
+      "CountryCode": "TW",
+      "Slug": "taiwan",
+      "NewConfirmed": "21",
+      "TotalConfirmed": "15742",
+      "NewDeaths": "0",
+      "TotalDeaths": "791",
+      "NewRecovered": "28",
+      "TotalRecovered": "12957",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "53647fdd-9d49-45ec-8abf-cb3dbe6040f6",
+      "Country": "Tajikistan",
+      "CountryCode": "TJ",
+      "Slug": "tajikistan",
+      "NewConfirmed": "71",
+      "TotalConfirmed": "15364",
+      "NewDeaths": "0",
+      "TotalDeaths": "121",
+      "NewRecovered": "79",
+      "TotalRecovered": "14867",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "0d975fea-8a5e-47f3-a867-68576a17c4af",
+      "Country": "Tanzania, United Republic of",
+      "CountryCode": "TZ",
+      "Slug": "tanzania",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "1017",
+      "NewDeaths": "0",
+      "TotalDeaths": "21",
+      "NewRecovered": "0",
+      "TotalRecovered": "183",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "add47edb-de32-47ef-ace6-927ad1824efc",
+      "Country": "Thailand",
+      "CountryCode": "TH",
+      "Slug": "thailand",
+      "NewConfirmed": "20200",
+      "TotalConfirmed": "672385",
+      "NewDeaths": "188",
+      "TotalDeaths": "5503",
+      "NewRecovered": "0",
+      "TotalRecovered": "26873",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "678d48f6-4d56-4fdf-a447-f5f436223162",
+      "Country": "Timor-Leste",
+      "CountryCode": "TL",
+      "Slug": "timor-leste",
+      "NewConfirmed": "45",
+      "TotalConfirmed": "11145",
+      "NewDeaths": "0",
+      "TotalDeaths": "26",
+      "NewRecovered": "35",
+      "TotalRecovered": "10025",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "598d917f-ae58-4baf-9ecf-392a127bdc83",
+      "Country": "Togo",
+      "CountryCode": "TG",
+      "Slug": "togo",
+      "NewConfirmed": "179",
+      "TotalConfirmed": "16232",
+      "NewDeaths": "0",
+      "TotalDeaths": "155",
+      "NewRecovered": "62",
+      "TotalRecovered": "14654",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "cbb90efd-7deb-4c70-9646-9ac2d2acdd81",
+      "Country": "Trinidad and Tobago",
+      "CountryCode": "TT",
+      "Slug": "trinidad-and-tobago",
+      "NewConfirmed": "183",
+      "TotalConfirmed": "39345",
+      "NewDeaths": "9",
+      "TotalDeaths": "1110",
+      "NewRecovered": "149",
+      "TotalRecovered": "32454",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "d0a68fe8-8acf-4794-bbaf-15993a4d5c60",
+      "Country": "Tunisia",
+      "CountryCode": "TN",
+      "Slug": "tunisia",
+      "NewConfirmed": "2819",
+      "TotalConfirmed": "599594",
+      "NewDeaths": "184",
+      "TotalDeaths": "20410",
+      "NewRecovered": "4554",
+      "TotalRecovered": "525889",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "f57be734-c20f-4b13-b26b-b5d5e187ad39",
+      "Country": "Turkey",
+      "CountryCode": "TR",
+      "Slug": "turkey",
+      "NewConfirmed": "26822",
+      "TotalConfirmed": "5822487",
+      "NewDeaths": "122",
+      "TotalDeaths": "51767",
+      "NewRecovered": "6096",
+      "TotalRecovered": "5478185",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "a9e1635f-a46b-4b06-acfc-7f896791aa7b",
+      "Country": "Uganda",
+      "CountryCode": "UG",
+      "Slug": "uganda",
+      "NewConfirmed": "202",
+      "TotalConfirmed": "94739",
+      "NewDeaths": "9",
+      "TotalDeaths": "2734",
+      "NewRecovered": "889",
+      "TotalRecovered": "86826",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "25d12edc-13f9-44a8-9fe8-07a383dff53e",
+      "Country": "Ukraine",
+      "CountryCode": "UA",
+      "Slug": "ukraine",
+      "NewConfirmed": "1366",
+      "TotalConfirmed": "2336603",
+      "NewDeaths": "47",
+      "TotalDeaths": "55643",
+      "NewRecovered": "891",
+      "TotalRecovered": "2257312",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "082bfc73-6a21-43f6-9b30-027f43a1e7a0",
+      "Country": "United Arab Emirates",
+      "CountryCode": "AE",
+      "Slug": "united-arab-emirates",
+      "NewConfirmed": "1519",
+      "TotalConfirmed": "686981",
+      "NewDeaths": "5",
+      "TotalDeaths": "1965",
+      "NewRecovered": "1470",
+      "TotalRecovered": "664130",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "007c8adb-6ce8-4dce-9c16-6c7d3f43468f",
+      "Country": "United Kingdom",
+      "CountryCode": "GB",
+      "Slug": "united-kingdom",
+      "NewConfirmed": "21855",
+      "TotalConfirmed": "5951736",
+      "NewDeaths": "140",
+      "TotalDeaths": "130179",
+      "NewRecovered": "1736",
+      "TotalRecovered": "24369",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "071c061d-47ef-41a8-b166-ab4353af2773",
+      "Country": "United States of America",
+      "CountryCode": "US",
+      "Slug": "united-states",
+      "NewConfirmed": "106557",
+      "TotalConfirmed": "35237950",
+      "NewDeaths": "616",
+      "TotalDeaths": "614295",
+      "NewRecovered": "0",
+      "TotalRecovered": "0",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "b11e43c8-4f4c-4a6b-b39a-99354b186295",
+      "Country": "Uruguay",
+      "CountryCode": "UY",
+      "Slug": "uruguay",
+      "NewConfirmed": "141",
+      "TotalConfirmed": "381994",
+      "NewDeaths": "3",
+      "TotalDeaths": "5979",
+      "NewRecovered": "159",
+      "TotalRecovered": "374203",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "5e0d732b-2813-4730-9389-885242e78784",
+      "Country": "Uzbekistan",
+      "CountryCode": "UZ",
+      "Slug": "uzbekistan",
+      "NewConfirmed": "923",
+      "TotalConfirmed": "132901",
+      "NewDeaths": "8",
+      "TotalDeaths": "901",
+      "NewRecovered": "805",
+      "TotalRecovered": "126377",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "889c759a-09e6-469e-9cbd-e051e544212e",
+      "Country": "Vanuatu",
+      "CountryCode": "VU",
+      "Slug": "vanuatu",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "4",
+      "NewDeaths": "0",
+      "TotalDeaths": "1",
+      "NewRecovered": "0",
+      "TotalRecovered": "3",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "08f2f7b9-031a-4cd1-a80e-298c0f396a39",
+      "Country": "Venezuela (Bolivarian Republic)",
+      "CountryCode": "VE",
+      "Slug": "venezuela",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "308452",
+      "NewDeaths": "0",
+      "TotalDeaths": "3637",
+      "NewRecovered": "0",
+      "TotalRecovered": "293672",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "9d03241b-e922-43e5-afa8-95a24ed84ae8",
+      "Country": "Viet Nam",
+      "CountryCode": "VN",
+      "Slug": "vietnam",
+      "NewConfirmed": "0",
+      "TotalConfirmed": "174461",
+      "NewDeaths": "0",
+      "TotalDeaths": "2071",
+      "NewRecovered": "0",
+      "TotalRecovered": "50831",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "960844a8-e1d3-4fa5-bb16-17688bdf8460",
+      "Country": "Yemen",
+      "CountryCode": "YE",
+      "Slug": "yemen",
+      "NewConfirmed": "10",
+      "TotalConfirmed": "7096",
+      "NewDeaths": "0",
+      "TotalDeaths": "1380",
+      "NewRecovered": "19",
+      "TotalRecovered": "4251",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "c0b32c87-2a88-4908-a910-de87a0b86e13",
+      "Country": "Zambia",
+      "CountryCode": "ZM",
+      "Slug": "zambia",
+      "NewConfirmed": "668",
+      "TotalConfirmed": "197791",
+      "NewDeaths": "8",
+      "TotalDeaths": "3430",
+      "NewRecovered": "317",
+      "TotalRecovered": "189658",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    },
+    {
+      "ID": "4c2fe735-0f6b-4358-99a6-24c5a20843ee",
+      "Country": "Zimbabwe",
+      "CountryCode": "ZW",
+      "Slug": "zimbabwe",
+      "NewConfirmed": "1091",
+      "TotalConfirmed": "113526",
+      "NewDeaths": "35",
+      "TotalDeaths": "3711",
+      "NewRecovered": "1424",
+      "TotalRecovered": "82994",
+      "Date": "2021-08-05T03:21:06.673Z",
+      "Premium": {
+        "-self-closing": "true"
+      }
+    }
+  ],
+  "Date": "2021-08-05T03:21:06.673Z"
+}

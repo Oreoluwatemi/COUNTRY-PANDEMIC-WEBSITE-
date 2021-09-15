@@ -1,0 +1,155 @@
+<!--  ********************************************************************************** 
+ITC5202 - Project 2
+I declare that this assignment is my own work in accordance with Humber Academic Policy. 
+No part of this assignment has been copied manually or electronically from any other source 
+(including web sites) or distributed to other students.
+Name: Oreoluwa Lawal   Student ID: N01452264  Date: 11-08-2021
+Name: Hely Patel   Student ID: N01452523   Date: 11-08-2021
+*********************************************************************************    -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project 2 - Question 5</title>
+    <link rel="stylesheet" href="q5Style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("button").click(function () {
+                var alphaCode = ""; c = ""; link = ""; newSt = ""; output = ""; title = ""; desc = "";
+                $("#headlines").html("");
+                if ($("#country").val().length == 0) {
+                    alert("Enter Country");
+                }
+                $.ajax({
+                    url: "https://restcountries.eu/rest/v2/all",
+                    success: function (data) {
+                        var cName = $("#country").val();
+                        const arr = [];
+                        const borderCountries = [];
+                        $("#bord").html("");
+                        $("#reg").html("HI, SELECT YOUR COUNTRY");
+                        $("#flag").html("");
+                        $("h1:eq(0)").html("");
+                        $("#add").html("");
+                        $.each(data, function (index, value) {
+                            if (cName == value.name) {
+                                $("#bord").html("Neighbour Countries: ");
+                                $("h1:eq(0)").text(value.name);
+                                $("#reg").text(value.region);
+                                $("#flag").append("<img id='theImg' src='" + value.flag + "'/>");
+                                $.each(value.borders, function (x, y) {
+                                    arr[x] = y;
+                                });
+                                alphaCode = (value.alpha2Code).toLowerCase();
+                            }
+                        });
+                        $.each(data, function (index, value) {
+                            $.each(arr, function (key, border) {
+                                if (border == value.alpha3Code) {
+                                    if (key < arr.length - 1)
+                                        $("#bord").append(value.name + ",   ")
+                                    else
+                                        $("#bord").append(value.name + "  ")
+                                    borderCountries[key] = value.name;
+
+                                }
+
+                            });
+                        });
+                        console.log(borderCountries)
+                        $.ajax({
+                            url: "Pandemic.json",
+                            success: function (cont) {
+
+                                var output = "<tr><th></th><th>NewConfirmed</th><th>NewDeaths</th><th>NewRecovered</th></tr>";
+                                // $("#add").append("<th>NewRecoveredd</th></tr> ");
+                                $.each(cont.Countries, function (o, p) {
+                                    if (cName == p.Country) {
+                                        $("#disp").css({ display: "block" });
+                                        output += "<tr><td> " + p.Country + " </td> ";
+                                        output += "<td>" + p.NewConfirmed + "</td>  ";
+                                        output += "<td>" + p.NewDeaths + "</td>  ";
+                                        output += "<td>" + p.NewRecovered + "</td></tr>  ";
+                                    }
+                                })
+                                $.each(cont.Countries, function (index, value) {
+                                    $.each(borderCountries, function (key, borderC) {
+                                        if (borderC == value.Country) {
+                                            output += "<tr><td>" + value.Country + "</td>";
+                                            output += "<td>" + value.NewConfirmed + "</td>";
+                                            output += "<td>" + value.NewDeaths + "</td>";
+                                            output += "<td>" + value.NewRecovered + "</td></tr>";
+                                        }
+                                    });
+                                });
+                                $("#add").append(output);
+                            },
+                            //error: function () { alert('Error!') }
+                        })
+                        
+                        c = alphaCode;
+                        link = "https://newsapi.org/v2/top-headlines?country=one&apiKey=9bbc91db8ed140cf9c34b45235c1bc3e"
+                        newSt = link.replace(/one/g, c);
+                        $.ajax({
+                            url: newSt,
+                            success: function (data) {
+                                $("#news").css({ display: "block" });
+                                $.each(data.articles, function (ind, val) {
+                                    if (ind < 10) {
+                                        if (val.description != null) {
+                                            title = (val.title).toLowerCase();
+                                            desc = (val.description).toLowerCase();
+                                            if (title.indexOf("health") > -1 || title.indexOf("pandemic") > -1 || title.indexOf("covid cases") > -1 || title.indexOf("vaccination") > -1|| title.indexOf("vaccine") > -1 || desc.indexOf("health") > -1 || desc.indexOf("vaccine") > -1|| desc.indexOf("pandemic") > -1 || desc.indexOf("covid cases") > -1 || desc.indexOf("vaccination") > -1)
+                                                output += "<p style='color: red; font-size:25px; text-decoration: underline; text-align:center; margin-top:60px'>" + (val.title).toUpperCase() + "</p>";
+                                            else
+                                                output += "<p style='text-decoration: underline; font-size:20px; text-align:center; margin-top:60px'>" + (val.title).toUpperCase() + "</p>";
+                                            output += "<p>" + val.description + "</p>";
+                                            output += "<p><a href=" + val.url + ">CLICK HERE TO VIEW FULL STORY</a></p>";
+                                            output += "<p>PUBLISH DATE: " + val.publishedAt + "</p>";
+                                            output += "<p>AUTHOR: " + val.author + "</p>";
+                                        }
+                                    }
+                                })
+
+                                $("#headlines").append(output);
+                            },
+                        });
+                    },
+                    error: function () { alert('Error!') }
+                });
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div class="background-image"></div>
+    <div id="search">
+        <input type="text" id="country">
+        <button>Search</button>
+    </div>
+    <div id="output">
+        <h1></h1>
+        <p id="reg">HI, SELECT YOUR COUNTRY</p>
+        <p id="flag"></p>
+        <p id="bord" style=" border-width: 0px;"> </p>
+        <p id="pandemic"></p>
+    </div>
+    <div id="disp">
+        <h1>COVID-19 DATA</h1>
+        <table id="add">
+
+        </table>
+    </div>
+    <div id="news" style='padding-left: 20px; padding-right: 20px;'>
+        <h1 style="text-align: center; font-size: 40px;">NEWS HEADLINES</h1>
+        <p id="headlines"></p>
+    </div>
+</body>
+
+</html>
